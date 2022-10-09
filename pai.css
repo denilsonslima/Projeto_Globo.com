@@ -1,0 +1,154 @@
+.pai {
+    display: flex;
+    width: 1250px;
+    margin: 0px auto;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.filho {
+    margin-top: 30px;
+    width: 1250px;
+}
+
+.filho .titulo {
+    color: #c4160c;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 67px;
+    padding-bottom: 29px;
+    
+}
+
+.filho .sub-titulo {
+    font-size: 18px;
+    color:  #303134;
+}
+
+.filho #sub-titulo-1 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color:  #303134;
+}
+
+#neto {
+    border-bottom: 1px solid #EBEDEF;
+    padding-bottom: 20px;
+}
+#caixa-1{
+    padding-top: 25px;
+}
+
+.caixa h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2f3134;
+}
+
+.secundario {
+    font-size: 14px;
+    font-weight: 400;
+    color: #2f3134;
+    padding-top: 14px;
+}
+
+.caixa img {
+    display: flex;
+    width: 193px;
+    border-radius: 12px;
+    margin-bottom: 11px;
+}
+
+#caixa-1 {
+    display: flex;
+    justify-content: space-between;    
+    padding-bottom: 36px;
+    border-bottom: 1px solid #EBEDEF;
+}
+
+#caixa-1 div {
+    width: 193px;
+    height: 218px;
+    padding-bottom: 36px;
+}
+
+#filho-1 {
+    display: flex;
+    border-left: 1px solid #EBEDEF;
+    margin-left: 36px;
+    margin-top: 35px;
+}
+#filho-1 img {
+    width: 240px;
+    height: 128px;
+    border-radius: 12px;
+}
+
+#filho-1 div {
+    width: 240px;
+}
+
+#filho-left {
+    margin: 0px 35px;
+    border-right: 1px solid #EBEDEF;
+    padding-right: 35px;
+}
+
+#filho-left .secundario {
+    padding-bottom: 60px;
+}
+.y {
+    padding-bottom: 50px;
+}
+.x {
+    padding-bottom: 50px;
+}
+#z {
+    padding-bottom: 45px;
+}
+#a {
+    padding-bottom: 0px;
+}
+
+#caixa-2 {
+    display: flex;
+    margin-top: 25px;
+}
+
+.vermelho {
+    color: #c4170c;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 11px;
+    padding-bottom: 10px;
+}
+#caixa-2 .vermelho {
+    padding-top: 0px;
+}
+.verde {
+    color: #16ae54;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 11px;
+    padding-bottom: 10px;
+}
+
+#filho-1 h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2f3134;
+}
+
+.laranja {
+    color: #EC8006;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 11px;
+    padding-bottom: 10px;
+}
+
+#filho-direita {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
